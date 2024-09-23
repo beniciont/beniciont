@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h2 align="left">👩‍💻  Sobre mim</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagem e ferramentas</h3>
+<h2 align="left">🛠 Linguagem e ferramentas</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔥   Meu Stats :</h3>
+<h2 align="left">🔥   Meu Stats :</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">Redes Sociais</h3>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
