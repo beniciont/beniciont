@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Analista de Infraestrutura especializado em Cloud, apaixonado por agilidade e com espírito curioso.<br><br>- 🔭 Atuando como Analista de Suporte na Fundação Bradesco.<br>- 📚 Atualmente trilhando certificações de Cloud, com foco na AZ-104(Azure Administrator).<br>- ⚡ No meu tempo livre gosto de passear com minha esposa e meu cachorro.</p>
+<p align="left">Analista de Infraestrutura especializado em Cloud, apaixonado por agilidade e com espírito curioso.<br><br>- 🔭 Atuando como Analista de Infra e Cloud na Harpo.<br>- 📚 Atualmente trilhando certificações de Cloud, com foco na AZ-104(Azure Administrator).<br>- ⚡ No meu tempo livre gosto de passear com minha esposa e meu cachorro.</p>
 
 ###
 
@@ -74,5 +74,6 @@
 </div>
 
 ###
+
 
 
